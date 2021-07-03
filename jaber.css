@@ -1,0 +1,52 @@
+*{
+    color:#353333e0
+}
+
+img{
+    width: 300px;
+    margin-top: 120px;
+    padding-left: 525px;
+}
+.css-input {
+    padding: 8px;
+    font-size: 16px;
+    border-width: 0px;
+    border-color: #CCCCCC;
+    background-color: #FFFFFF;
+    color: #000000;
+    border-style: solid;
+    border-radius: 48px;
+    box-shadow: 0px 0px 5px rgba(66,66,66,.75);
+    text-shadow: 0px 0px 5px rgba(66,66,66,.75);
+}
+.css-input:focus {
+    outline:none;
+}
+input{
+   margin-left: 410px;
+   margin-top: 20px;
+   width: 505px;
+   height: 30px;
+}
+.subBTN{
+    margin-left: 533px;
+    padding-top: 30px;
+}
+button{
+    padding: 10px 15px;
+}
+.offer{
+    margin-left: 590px;
+    margin-top: 40px;
+}
+
+footer{
+    margin-top: 200px;
+    margin-left: 520px;
+}
+
+button:hover{
+    color: red;
+    background: rgb(16, 233, 16);
+    pointer-events: stroke;
+}
